@@ -1,4 +1,12 @@
 <?php
+
+// BEGIN Solid Security - Do not modify or remove this line
+// Solid Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// END Solid Security - Do not modify or remove this line
+
+define( 'ITSEC_ENCRYPTION_KEY', 'PU1bJj57PnlSbSVSdjlQdkNfaUV4X0tlKH0tKjt0enFUMmpaWEpoO3FJQEY/UDNmRHIyaUtifmJbe2A+ZUk/Vg==' );
+
 /**
  * The base configuration for WordPress
  *
